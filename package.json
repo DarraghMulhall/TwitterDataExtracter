@@ -1,0 +1,15 @@
+{
+  "name": "twitter_login",
+  "version": "1.0.0",
+  "description": "App to authenticate a twitter user and access their data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darragh Mulhall",
+  "license": "ISC",
+  "dependencies": {
+    "oauth": "^0.9.15",
+    "twitter": "^1.7.1"
+  }
+}
