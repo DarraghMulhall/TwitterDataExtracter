@@ -9,6 +9,7 @@
   "author": "Darragh Mulhall",
   "license": "ISC",
   "dependencies": {
+    "mysql": "^2.15.0",
     "oauth": "^0.9.15",
     "twitter": "^1.7.1"
   }
